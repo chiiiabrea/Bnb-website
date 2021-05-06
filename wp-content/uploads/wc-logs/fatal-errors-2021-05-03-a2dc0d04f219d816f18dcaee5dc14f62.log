@@ -1,0 +1,34 @@
+2021-05-03T06:12:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\wp-db.php on line 2056
+
+2021-05-03T06:13:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php on line 8
+
+2021-05-03T06:13:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php on line 8
+
+2021-05-03T11:19:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Coupons.php on line 10
+
+v2-controller.php on line 543
+
+2021-05-03T11:54:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\wp-db.php on line 2056
+
+2021-05-03T12:02:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\wp-db.php on line 2056
+
+2021-05-03T12:21:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Schemas\CartSchema.php on line 410
+
+2021-05-03T12:22:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-admin\includes\admin-filters.php on line 11
+
+2021-05-03T14:34:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\wp-db.php on line 2056
+
+2021-05-03T14:34:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-products-v1-controller.php on line 13
+
+2021-05-03T15:23:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\includes\gateways\paypal\includes\class-wc-gateway-paypal-response.php on line 8
+
+2021-05-03T15:23:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-report-top-sellers-v1-controller.php on line 13
+
+2021-05-03T15:23:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-network-orders-v2-controller.php on line 175
+
+2021-05-03T15:23:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-tools-v2-controller.php on line 604
+
+2021-05-03T15:23:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\rest-api\class-wp-rest-server.php on line 1016
+
+2021-05-03T15:23:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-order-refunds-controller.php on line 116
+

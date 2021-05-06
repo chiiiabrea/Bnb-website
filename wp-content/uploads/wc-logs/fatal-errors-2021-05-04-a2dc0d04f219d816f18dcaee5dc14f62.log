@@ -1,0 +1,32 @@
+2021-05-04T13:07:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 81
+
+2021-05-04T13:07:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\class-requests.php on line 145
+
+2021-05-04T13:08:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-admin\includes\media.php on line 3825
+
+2021-05-04T13:11:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\rest-api\class-wp-rest-server.php on line 1410
+
+2021-05-04T13:11:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\Requests\Transport\cURL.php on line 163
+
+2021-05-04T13:12:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\class-wp-theme.php on line 1203
+
+2021-05-04T13:34:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-admin\includes\post.php on line 2479
+
+2021-05-04T14:24:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\class-wp-theme.php on line 1333
+
+2021-05-04T15:08:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\wp-db.php on line 2056
+
+2021-05-04T15:09:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\wp-db.php on line 2056
+
+2021-05-04T15:23:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\wp-db.php on line 2056
+
+2021-05-04T15:23:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\Orders\Controller.php on line 10
+
+2021-05-04T15:41:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\wp-db.php on line 2056
+
+2021-05-04T17:22:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\SchedulerTraits.php on line 8
+
+2021-05-04T17:30:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\wp-db.php on line 2056
+
+2021-05-04T18:10:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\wp-db.php on line 2056
+
